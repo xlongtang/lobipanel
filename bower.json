@@ -32,7 +32,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.0.0",
     "jquery-ui": "^1.11.4",
     "jquery-ui-touch-punch-improved": "^0.3.1"
   }
